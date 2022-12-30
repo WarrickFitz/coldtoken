@@ -48,7 +48,7 @@
     "kill-port": "^1.5.1",
     "lru-cache": "^5.1.1",
     "mkdirp": "^0.5.1",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "mocha-junit-and-console-reporter": "^1.6.0",
     "node-emoji": "^1.8.1",
     "node-fetch": "^2.6.0",
